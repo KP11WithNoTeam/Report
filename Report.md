@@ -3,6 +3,13 @@
 # Вёрстка
        BACK:
       ------------
+      #* В терминале риадмишки(винда):
+       1. cmd
+       2. python3 --version Python 3.11.5
+       3. -m venv env
+       4. env\Scripts\activate
+          *(python.exe -m pip install --upgrade pip)
+       5. pip install requests
       # 1) бэкап
       import requests
       import sqlite3
